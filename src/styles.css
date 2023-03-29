@@ -1,2 +1,14 @@
 /* Add application styles & imports to this file! */
 @import '~bootstrap/dist/css/bootstrap.min.css';
+h1 {
+  font-size: 2.5rem; /* Cambia el tamaño de la fuente */
+  font-weight: bold; /* Cambia el grosor de la fuente */
+  text-align: center; /* Centra horizontalmente el texto */
+  text-transform: uppercase; /* Cambia a mayúsculas */
+  margin-top: 30px; /* Agrega un margen superior */
+  margin-bottom: 20px; /* Agrega un margen inferior */
+  color: #333; /* Cambia el color del texto */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3); /* Agrega sombra al texto */
+  font-family: Arial, sans-serif; /* Cambia la fuente */
+  letter-spacing: 2px; /* Cambia el espaciado entre letras */
+}
