@@ -1,7 +1,14 @@
 .gohanComp {
   margin: 50px auto;
   padding: 5px;
-  background-color: lightblue;
+  background-color: blue;
   height: 150px;
   border-radius: 20px;
- }
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Agrega sombra */
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif; /* Cambia la fuente */
+  color: white; /* Cambia el color del texto */
+  font-size: 1.2rem; /* Cambia el tamaño de la fuente */
+  line-height: 1.5; /* Cambia la altura de línea */
+}

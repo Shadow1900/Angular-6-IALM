@@ -2,6 +2,14 @@
   margin-top: 10px;
   padding-top: 20px;
   border-radius: 10px;
-  background-color: lightcoral
- }
- 
+  background-color: red;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* Agrega sombra */
+  max-width: 800px; /* Limita el ancho máximo */
+  margin-left: auto; /* Centra horizontalmente */
+  margin-right: auto;
+  text-align: center; /* Centra verticalmente el contenido */
+  font-family: Arial, sans-serif; /* Cambia la fuente */
+  color: white; /* Cambia el color del texto */
+  font-size: 1.2rem; /* Cambia el tamaño de la fuente */
+  line-height: 1.5; /* Cambia la altura de línea */
+}
