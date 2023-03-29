@@ -1,6 +1,6 @@
 /* Add application styles & imports to this file! */
 @import '~bootstrap/dist/css/bootstrap.min.css';
-h1 {
+#titulo {
   font-size: 2.5rem; /* Cambia el tamaño de la fuente */
   font-weight: bold; /* Cambia el grosor de la fuente */
   text-align: center; /* Centra horizontalmente el texto */
