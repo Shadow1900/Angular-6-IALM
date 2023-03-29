@@ -1,2 +1,18 @@
 /* Add application styles & imports to this file! */
 @import '~bootstrap/dist/css/bootstrap.min.css';
+/*Estilos para gohan*/
+.gohanComp {
+  margin: 50px auto;
+  padding: 5px;
+  background-color: lightblue;
+  height: 150px;
+  border-radius: 20px;
+}
+
+/*Estilos para goku*/
+.container {
+  margin-top: 10px;
+  padding-top: 20px;
+  border-radius: 10px;
+  background-color: red;
+}
